@@ -1,4 +1,4 @@
-# Made using Next.js, Tailwind CSS, Calendar Picker, Mapbox
+# Made using Next.js, Tailwind CSS, Calendar Picker, Mapbox, Server Side Rendering
 
 # Next.js + Tailwind CSS Example
 
